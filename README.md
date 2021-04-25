@@ -2,7 +2,7 @@
 
 > Sending sensor data to Azure IoT central using NodeMCU
 
-![screenshot](https://github.com/subhansanjaya/app/blob/master/photo.jpeg)
+![screenshot](https://github.com/subhansanjaya/iot-app/blob/main/image.jpeg)
 
 Libraries Used: 
 - AzureIoTHub 1.0.45
